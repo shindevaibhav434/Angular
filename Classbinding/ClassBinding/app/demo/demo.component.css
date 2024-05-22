@@ -1,0 +1,8 @@
+.success
+{
+    color: rgb(138, 43, 226);
+}
+.failure 
+{
+    font-style: italic;
+}
